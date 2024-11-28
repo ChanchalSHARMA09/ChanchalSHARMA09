@@ -1,5 +1,6 @@
+## Hello Everyone, I am Chanchal 
 # 💫 About Me:
-<br>- 🔭 I’m currently working on **SpoonIT**<br><br>- 🌱 I’m currently learning **ReactJS**<br><br>- 💬 Ask me about **HTML,CSS,JS**<br><br>- ⚡ Fun fact **I created a game called Duck Hunter! When I'm not busy coding, you might find me strategizing my next high score—digital ducks beware! 🦆**
+<br>- 🔭 I’m currently working on **Portfolio**<br><br>- 🌱 I’m currently learning **DSA concepts**<br><br>- 💬 Ask me about **HTML,CSS,JS**<br><br>- ⚡ Fun fact **I created a game called Duck Hunter! When I'm not busy coding, you might find me strategizing my next high score—digital ducks beware! 🦆**
 
 
 
