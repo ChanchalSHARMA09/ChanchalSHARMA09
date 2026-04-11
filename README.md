@@ -5,17 +5,17 @@
 <br>
 
 <div align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="180" style="border-radius: 50%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Chanchal+Sharma;MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Internships" />
 </div>
 
 <h2 align="center"> 
-  MERN Developer 🚀 | Building Scalable Web Apps
+  MERN Developer 🚀 | Open to Remote Internships 💼
 </h2>
 
 ---
 
 <h2 align="center"> 
-  𝐌 𝐘 &nbsp; 𝐓 𝐄 𝐂 𝐇 &nbsp; 𝐒 𝐓 𝐀 𝐂 𝐊 
+  𝐌𝐘 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊 
 </h2>
 
 <div align="center">
@@ -25,7 +25,7 @@
 ---
 
 <h2 align="center"> 
-  🚀 𝐏 𝐑 𝐎 𝐉 𝐄 𝐂 𝐓 𝐒 
+  🚀 PROJECTS 
 </h2>
 
 <div align="center">
@@ -39,7 +39,7 @@
 ---
 
 <h2 align="center"> 
-  📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 
+  📊 GITHUB STATS 
 </h2>
 
 <div align="center">
@@ -49,17 +49,17 @@
 ---
 
 <h3 align="center"> 
-  📈 Contribution Graph 
+  📈 CONTRIBUTION GRAPH 
 </h3>
 
 <div align="center">
-  <img src="https://commit-matrix.vercel.app/api?username=ChanchalSHARMA09" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanchalSHARMA09&theme=react-dark" />
 </div>
 
 ---
 
 <h2 align="center"> 
-  🐍 Contribution Snake 
+  🐍 CONTRIBUTION SNAKE 
 </h2>
 
 <p align="center">
@@ -69,7 +69,7 @@
 ---
 
 <h2 align="center"> 
-  🔗 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 
+  🔗 LET'S CONNECT 
 </h2>
 
 <div align="center">
